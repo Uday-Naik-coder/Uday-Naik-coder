@@ -20,7 +20,6 @@ I enjoy turning ideas into scalable products by combining clean frontend experie
 ## Featured work
 
 - [Banking Ledger](https://github.com/Uday-Naik-coder/Banking-Ledger) — full-stack financial tracking and ledger management
-- [IdeaVest](https://github.com/Uday-Naik-coder/IdeaVest) — idea and startup-focused product project
 - [NU Delivery](https://github.com/Uday-Naik-coder/NU-Delivery) — delivery application project
 - [Telco Customer Churn ML](https://github.com/Uday-Naik-coder/Telco-Customer-Churn-ML) — machine learning solution for churn prediction
 - [QR Phishing Detection](https://github.com/Uday-Naik-coder/QR-Phishing-Detection) — AI-driven security project
